@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning docker,android <br><!--🎯 Goals: ...<br>🎲 Fun fact: ...</p>-->
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning docker, android <br><!--🎯 Goals: ...<br>🎲 Fun fact: ...</p>-->
 
 ###
 
