@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning docker, android
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning machine learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
