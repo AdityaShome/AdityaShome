@@ -103,12 +103,10 @@
 
 https://leetcode.com/u/Lc71MyVm0e/
 
----
+
 
 ## ⚡ Fun Fact
 
-I debug more than I code — and that’s how I learn.
+I debug more than I code and that’s how I learn.
 
----
-
-⭐️ From [AdityaShome](https://github.com/adityashome)
+From [AdityaShome](https://github.com/adityashome)
