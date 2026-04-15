@@ -87,6 +87,9 @@
 </table>
 ---
 
+## 📊 My 3D Contribution Activity
+![3D Calendar](./github-metrics-isocalendar.svg)
+
 ## 🎯 Current Focus
 
 - Deep Learning fundamentals  
