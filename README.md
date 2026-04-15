@@ -25,20 +25,36 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- C++
-- Python
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
+</p>
 
-**Core Areas**
-- Data Structures & Algorithms  
-- Machine Learning  
-- Backend Development  
+### Core CS & Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-DSA-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-Basics-purple?style=flat-square"/>
+</p>
 
-**Tools**
-- Git & GitHub  
-- Linux  
-- VS Code  
-- STM32 / Embedded Systems  
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Exploring-orange?style=flat-square"/>
+</p>
+
+### Development & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+### Embedded / Hardware
+<p>
+  <img src="https://img.shields.io/badge/STM32-Microcontroller-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ESP32-IoT-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MAX30100-Sensor-red?style=flat-square"/>
+</p>
 
 ---
 
@@ -50,18 +66,25 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityashome&show_icons=true&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashome&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=adityashome&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityashome&layout=compact&theme=tokyonight" />
-</p>
+</td>
 
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashome&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityashome&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🎯 Current Focus
