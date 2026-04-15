@@ -58,12 +58,6 @@
 
 ---
 
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Lc71MyVm0e?theme=dark&ext=activity&hide=ranking" />
-</p>
-
 ## 📈 GitHub Stats
 
 <table>
