@@ -23,39 +23,53 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
+### 🛠️ Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,c,python,ts,js" />
+  </a>
 </p>
 
-### Core CS & Problem Solving
+### 🤖 AI / ML & Data Science
 <p>
-  <img src="https://img.shields.io/badge/Data%20Structures-DSA-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Design-Basics-purple?style=flat-square"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### AI / ML
+### ⚙️ Systems, DevOps & Observability
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Exploring-orange?style=flat-square"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,debian,githubactions,cmake" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-### Development & Tools
+### 🗄️ Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,nextjs,nodejs,express" />
+  </a>
 </p>
 
-### Embedded / Hardware
+### 🧠 Core CS & Problem Solving
 <p>
-  <img src="https://img.shields.io/badge/STM32-Microcontroller-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ESP32-IoT-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MAX30100-Sensor-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Structures-FFCA28?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithms-42A5F5?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-66BB6A?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 </p>
 
+### 🔌 Embedded & Hardware
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_Sensors-0052CC?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 ---
 
 ## 📈 GitHub Stats
