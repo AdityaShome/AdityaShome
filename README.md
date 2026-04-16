@@ -102,7 +102,7 @@
 
 - Deep Learning fundamentals  
 - Transformers & Attention  
-- Building real-world AI projects  
+- Building real world AI projects  
 - Contributing to open source  
 
 ---
