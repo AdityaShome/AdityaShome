@@ -104,12 +104,6 @@
 
 ---
 
-## 📌 LeetCode Profile
-
-https://leetcode.com/u/Lc71MyVm0e/
-
-
-
 ## ⚡ Fun Fact
 
 I debug more than I code and that’s how I learn.
