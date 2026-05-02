@@ -70,7 +70,6 @@
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT_Sensors-0052CC?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
----
 
 ## 📈 GitHub Stats
 
